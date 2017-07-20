@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google (Plus One) Button by kms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-27 14:16+0100\n"
+"PO-Revision-Date: 2012-01-27 14:18+0100\n"
+"Last-Translator: Mikó András <ifj.miko.andras@gmail.com>\n"
+"Language-Team: kms <ifj.miko.andras@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: german (deutsch)\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: d:\\docs\\www\\javascriptprog.hu\\htdocs\\wp-content\\plugins\\google-plus-one-button-by-kms\n"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:6
+msgid "Google +1 settings"
+msgstr "Google +1 Einstellungen"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:6
+msgid "Google +1"
+msgstr "Google +1"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:59
+msgid "Google +1 (Plus One) settings"
+msgstr "Google +1 (Plus One) Einstellungen"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:61
+msgid "Settings saved."
+msgstr ""
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:73
+msgid "The button's"
+msgstr "Der Button sei"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:78
+msgid "size"
+msgstr "in Größe"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:80
+msgid "normal"
+msgstr "normal"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:81
+msgid "small"
+msgstr "klein"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:82
+msgid "middle"
+msgstr "mittel"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:83
+msgid "tall"
+msgstr "hoch"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:89
+msgid "location"
+msgstr "in Platzierung"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:91
+msgid "above the post"
+msgstr "über der Eintrag"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:92
+msgid "below the post"
+msgstr "unter der Eintrag"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:93
+msgid "above AND below"
+msgstr "über UND unter"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:94
+msgid "floating on left"
+msgstr "links schwebend"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:95
+msgid "placed manually"
+msgstr "manuell positioniert"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:101
+msgid "If you select left floating location, please revise additional information displayed below."
+msgstr "Bei links schwebende Lage bitte auch die unten angezeigte zusätzliche Informationen anschauen und einstellen."
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:102
+#, php-format
+msgid "Insert the %s code into your theme where you'd like to see the button"
+msgstr "Legen Sie die %s-Code in Ihr Thema, wo Sie der Button anzeigen möchten."
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:109
+msgid "Display"
+msgstr "Visualisierung"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:115
+msgid "with counter"
+msgstr "mit Zähler"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:121
+msgid "on first page"
+msgstr "auf der Home Seite"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:127
+msgid "besides posts"
+msgstr "bei Blog Postings"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:132
+msgid "filtered on"
+msgstr "filtern an"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:134
+msgid "List the name or slug of the tag you want to filter on. Reverse filter can be prefixed with '!'"
+msgstr "Liste der Namen oder kurze Namen des Tags, auf den filtert werden muß. Filtern die mit '!' beginnen werden umgekehrt berechnet"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:141
+msgid "JavaScript SEO"
+msgstr "JavaScript SEO"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:147
+msgid "at the bottom of the page in the footer section"
+msgstr "im unteren Seitenrand im Fußabschnitt"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:154
+msgid "Floating button's"
+msgstr "Der schwebende Button sei"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:159
+msgid "spacing on top"
+msgstr "von oben auf"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:165
+#, php-format
+msgid "The Button's spacing from top. For example: %s"
+msgstr "Der Abstand vom oberen Rand der Seite. Zum Beispiel: %s"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:170
+msgid "spacing left"
+msgstr "von left auf"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:176
+#, php-format
+msgid "The Button's spacing from the left side. For example: %s"
+msgstr "Der Abstand vom linken Rand der Seite. Zum Beispiel: %s"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:181
+msgid "position"
+msgstr "in Platzierung"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:183
+msgid "Fixed"
+msgstr "Fix"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:184
+msgid "Absolut"
+msgstr "Absolute"
+
+#: d:\docs\www\javascriptprog.hu\htdocs\wp-content\plugins\google-plus-one-button-by-kms/gpo_admin_page.php:191
+msgid "Save Changes"
+msgstr ""
+
